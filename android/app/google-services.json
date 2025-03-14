@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051106245369",
+    "project_id": "chayanon-eec03",
+    "storage_bucket": "chayanon-eec03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051106245369:android:316cf07ad65e84eed4c028",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RAQgkGf4qM3UQMDsoLmdNHsP7NaJN8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
