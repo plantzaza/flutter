@@ -1,3 +1,2 @@
-# flutter_application_3
+# Flutter Quiz วิชา Mobile Dev.
 
-A new Flutter project.
